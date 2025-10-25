@@ -1,0 +1,9 @@
+{
+  "name": "Gastos OCR",
+  "short_name": "GastosOCR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#101827",
+  "icons": []
+}
