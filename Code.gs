@@ -2,7 +2,7 @@
  * Web App base para conexión con Google Sheets
  */
 const CONFIG = {
-  SHEET_ID: 'YOUR_SHEET_ID_HERE',
+  SHEET_ID: '1FGEse88fTTDamcRpvNjY7C_ol9xwqL7Q_EH7M-ShkkQ',
   TIMEZONE: 'America/Lima'
 };
 
